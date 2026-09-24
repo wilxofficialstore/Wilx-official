@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wilxofficialstore.github.io/Wilx-official/sitemap.xml
